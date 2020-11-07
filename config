@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Online-Classroom"]
+	url = https://github.com/Akashdeep-1998/Online-classrom.git
+	fetch = +refs/heads/*:refs/remotes/Online-Classroom/*
+[remote "Online-classroom"]
+	url = https://github.com/Akashdeep-1998/Online-classrom.git
+	fetch = +refs/heads/*:refs/remotes/Online-classroom/*
+[branch "master"]
+	remote = Online-classroom
+	merge = refs/heads/master

@@ -1,0 +1,33 @@
+.valid {
+  color: green;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.invalid {
+  color: red;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.login-form {
+  border: 1px ridge black;
+  margin-left: 580px;
+  margin-top: 20px;
+  padding: 25px;
+  width: 250px;
+  background-color: lightpink;
+}
+.reg-form {
+  border: 1px ridge black;
+  margin-left: 580px;
+  margin-top: 30px;
+  padding: 25px;
+  width: 250px;
+  background-color: lightpink;
+}
+.display-data-reg {
+  color: green;
+  margin-left: 580px;
+  margin-top: 20px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

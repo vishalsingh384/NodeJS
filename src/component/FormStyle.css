@@ -1,0 +1,29 @@
+.login-left {
+  background-color: rgb(9, 130, 211);
+  height: 670px;
+}
+.login-left h2 {
+  text-align: center;
+  margin-top: 200px;
+}
+
+form {
+  margin-top: 300px;
+  margin-left: 120px;
+  text-align: center;
+}
+label {
+  margin-right: 20px;
+}
+input {
+  text-align: center;
+  width: 280px;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  border-bottom: 1px solid rgb(9, 130, 211);
+}
+
+form h1 {
+  margin-bottom: 35px;
+}
